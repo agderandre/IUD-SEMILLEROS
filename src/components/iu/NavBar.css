@@ -1,0 +1,12 @@
+@media (min-width: 768.111px) {
+    .logout{
+        margin-left: 25px;
+    }
+
+    .navbar-brand.logo{
+        margin: auto;
+        width: 100%;
+        left: 0;
+        align-items: center;
+    }
+}

@@ -1,0 +1,30 @@
+footer>div span.text-muted {
+  color: #191818 !important;
+}
+
+
+footer.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-color: #39478b4f !important;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+/* Other Classes for Page Styling */
+
+body {
+  background: #4a62de;
+  background: linear-gradient(#225fc1, #526be3);
+}
